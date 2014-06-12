@@ -3580,7 +3580,27 @@
         "No jQuery",
         "Bootstrap"
       ]
-    }
-
+    },
+    {
+      "name": "Cakpres",
+      "thumb": "cakpres/thumb.png",
+      "desc": "Realtime massive multiplayer Indonesia national election 2014",
+      "url": "http://sonnylazuardi.github.io/cakpres/www/",
+      "src": "https://github.com/sonnylazuardi/cakpres",
+      "submitter": "sonnylazuardi",
+      "submissionDate": "2014-06-12",
+      "tags": [
+        "National Election",
+        "Game",
+        "Multiplayer",
+        "President",
+        "Indonesia",
+        "Firebase",
+        "Socket.io",
+        "HTML5",
+        "CSS3",
+        "Bootstrap"
+      ]
+    },
   ]
 }
